@@ -65,3 +65,4 @@ Azure 가상 네트워크 및 서브넷 상의 VM 들이 HV01 내의 Hyper-V VM 
 
 
 
+[20230603 How to Setup Hyper-V Nested Virtualization on Azure.pdf](https://github.com/dongclee/SetupHyper-VNestedVirtualizationonAzure/files/11645085/20230603.How.to.Setup.Hyper-V.Nested.Virtualization.on.Azure.pdf)
