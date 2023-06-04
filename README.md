@@ -11,7 +11,9 @@ Hyper-V 실습을 하기 위해서는 CPU 및 메모리가 충분한 Physical Ma
 
 ②	“Hyper-V 호스트 (Azure IaaS VM)” 와 “Hyper-V Guest VM” 사이의 네트워크 통신 구성
 
-③	“Hyper-V Guest VM” on “Hyper-V 호스트 (Azure IaaS VM)” 의 인터넷(외부) 통신 구성
+③	“Azure 가상 네트워크 내의 VM” 과 “Hyper-V Guest VM” 사이의 네트워크 통신 구성
+
+④	“Hyper-V 호스트 (Azure IaaS VM)” 상의 “Hyper-V Guest VM” 이 인터넷(외부) 통신 구성
 
 
 위 3가지 주제를 구성하기 위한 기본적인 데모 환경 및 데모 주제에 대한 설명은 아래와 같습니다.
